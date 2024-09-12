@@ -9,15 +9,7 @@ This project explores the similarities between poker and trading through a Pytho
 - Uses Kelly Criterion for bet sizing
 - Analyzes and visualizes results
 
-## Usage
-
-To run the simulator, use the following command:
-
-```python
-python poker_trading_simulator.py
-```
-
-You can also use the provided Jupyter Notebook to interact with the simulator and visualize the results.
+You can use the provided Jupyter Notebook to interact with the simulator and visualize the results.
 
 ## How It Works
 
